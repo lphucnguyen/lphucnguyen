@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Nguyen. I’m Web Developer.
+# <center><h2>👋 Hi, My name is Nguyen. I’m Web Developer.</h2></center>
 - 👀 I’m interested in Coding, Learning more about system architecture
 - 🌱 I’m currently learning system architecture
 - 💞️ I’m looking to collaborate on ...
