@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nguyen</h1>
-<h3 align="center">A passionate Frontend Developer and System Architecture from Vietnam</h3>
+<h3 align="center">A passionate Frontend Developer and Software Architecture from Vietnam</h3>
 
 - 🔭 I’m currently working as **Software Engineering**
 
-- 💬 Ask me about **ReactJS, NodeJS, Python, PHP, Laravel**
+- 💬 Ask me about **ReactJS, Python, PHP, Laravel**
 
 - 📫 How to reach me **lephucnguyen17052000@gmail.com**
 
