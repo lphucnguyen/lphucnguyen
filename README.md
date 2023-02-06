@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nguyen and I'm a Web Developer, from Vietnam.</h2>
+<h2 align="center">Hi 👋! My name is Nguyen and I'm a Web Developer, from Vietnam.</h2>
 
 ###
 
@@ -59,6 +59,10 @@
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
 </div>
+
+###
+
+<h3 align="left">My contribution graph:</h3>
 
 ###
 
