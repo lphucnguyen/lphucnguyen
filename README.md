@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Nguyen and I'm a Web Developer, from Vietnam.</h2>
+<h2 align="left">Hi 👋! My name is Nguyen. I'm a Web Developer, from Vietnam.</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="left">Programming Language:</h3>
+<h2 align="left">Programming Language:</h2>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="left">Framework:</h3>
+<h2 align="left">Framework:</h2>
 
 ###
 
@@ -37,7 +37,7 @@
 
 ###
 
-<h3 align="left">DevOps:</h3>
+<h2 align="left">DevOps:</h2>
 
 ###
 
@@ -45,6 +45,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
 </div>
+
+###
+
+<h2 align="left">My Social Profile:</h2>
 
 ###
 
@@ -62,7 +66,7 @@
 
 ###
 
-<h3 align="left">My contribution graph:</h3>
+<h2 align="left">My Contribution Graph:</h2>
 
 ###
 
