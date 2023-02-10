@@ -1,4 +1,5 @@
-<h2 align="center">Hi 👋! My name is Nguyen. I'm a Web Developer, from Vietnam.</h2>
+<h2 align="center">Hi 👋! My name is Nguyen</h2>
+<h5 align="center"><i>I'm a Web Developer, from Vietnam.</i></h5>
 
 ###
 
