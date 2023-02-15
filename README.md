@@ -40,7 +40,7 @@
 
 ###
 
-<h2 align="left">My Social Profile:</h2>
+<h2 align="left">Want To Connect To Me:</h2>
 
 ###
 
