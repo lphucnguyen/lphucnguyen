@@ -1,5 +1,5 @@
 <h3 align="center">Hi! My name is Nguyen</h3>
-<h5 align="center"><i>I'm a Web Developer, from Vietnam.</i></h5>
+<h5 align="center"><i>I'm a Web Developer.</i></h5>
 
 <h2 align="left">Programming Language:</h2>
 
