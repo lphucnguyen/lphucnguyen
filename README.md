@@ -58,12 +58,3 @@
 
 ###
 
-<h2 align="left">My Contribution Graph:</h2>
-
-###
-
-<br clear="both">
-
-<img src="https://github.com/lphucnguyen/lphucnguyen/blob/output/snake.svg" alt="Snake animation" />
-
-###
