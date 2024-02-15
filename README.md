@@ -45,8 +45,8 @@
   <a href="https://www.linkedin.com/in/nguyen-le-b25634225/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://leetcode.com/lphucnguyen" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=d16c06&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  <a href="https://leetcode.com/lephucnguyen17052000/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=&logoColor=d16c06&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
 </div>
 
